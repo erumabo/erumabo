@@ -1,4 +1,4 @@
 - Hi, I’m @erumabo, aka Mabo aka Daniel Martínez
-- I'm a software engineering student at ITCR
+- I'm a software engineering, studied at ITCR.
 - I like making short code snippets to test stuff, maybe I should upload them somewhere
 - JS, Python, C/C++, Lua, R, Bash

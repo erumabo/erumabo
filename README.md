@@ -1,6 +1,6 @@
 # Hello!
 
-I’m @erumabo, aka Mabo aka Daniel Martínez, a software developer
+I’m @erumabo, aka Mabo aka Daniel Martínez, a software developer from Costa Rica
 
 ## About me
 

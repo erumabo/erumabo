@@ -22,3 +22,6 @@ I work with anything I find interesting:
 - R
 - Bash & Powershell
 - JSON, YAML, KDL, XML, MD, ...
+
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-grey?logo=ko-fi&labelColor=FF5E5B&logoColor=white&style=for-the-badge)](https://ko-fi.com/emabo)
